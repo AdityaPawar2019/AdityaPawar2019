@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aditya Pawar</title>
+    <link>http://adityapawar.co.in/</link>
+    <description>Recent content on Aditya Pawar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jun 2021 16:43:16 +0530</lastBuildDate><atom:link href="http://adityapawar.co.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://adityapawar.co.in/posts/my-first-post/</link>
+      <pubDate>Sat, 26 Jun 2021 16:43:16 +0530</pubDate>
+      
+      <guid>http://adityapawar.co.in/posts/my-first-post/</guid>
+      <description>Hello World!!! Wait!! Is it mandatory to say Hello World, every time you make a new blog,then certainly yes. Anyways let me start by saying something which probabaly no one will ever be reading on the Internet. Yes I am sure, it requires efforts to read, that&amp;rsquo;s why very few people read and write (is that so?)
+Yeap it requires lots and lots of efforts that&amp;rsquo;s why not writing, lazy me.</description>
+    </item>
+    
+  </channel>
+</rss>
