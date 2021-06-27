@@ -6,7 +6,34 @@
     <description>Recent content on Aditya Pawar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jun 2021 16:43:16 +0530</lastBuildDate><atom:link href="http://adityapawar.co.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 16:54:08 +0530</lastBuildDate><atom:link href="http://adityapawar.co.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics Notes</title>
+      <link>http://adityapawar.co.in/posts/mathematics-notes/</link>
+      <pubDate>Sun, 27 Jun 2021 16:54:08 +0530</pubDate>
+      
+      <guid>http://adityapawar.co.in/posts/mathematics-notes/</guid>
+      <description>Mathematics 3 short notes Laplace Transforms {$$ f(x) }</description>
+    </item>
+    
+    <item>
+      <title>New Article</title>
+      <link>http://adityapawar.co.in/article/new-article/</link>
+      <pubDate>Sun, 27 Jun 2021 10:21:01 +0530</pubDate>
+      
+      <guid>http://adityapawar.co.in/article/new-article/</guid>
+      <description>Hey there!! new article testing only</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://adityapawar.co.in/posts/second-post/</link>
+      <pubDate>Sun, 27 Jun 2021 10:17:29 +0530</pubDate>
+      
+      <guid>http://adityapawar.co.in/posts/second-post/</guid>
+      <description>Hey there! I&amp;rsquo;m back again with the second post!! Voila</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://adityapawar.co.in/posts/my-first-post/</link>
