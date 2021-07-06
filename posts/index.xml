@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Aditya Pawar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jul 2021 10:08:44 +0530</lastBuildDate><atom:link href="http://adityapawar.co.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 11:49:26 +0530</lastBuildDate><atom:link href="http://adityapawar.co.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making cool looking ASCII art in python</title>
+      <link>http://adityapawar.co.in/posts/ascii-art/</link>
+      <pubDate>Tue, 06 Jul 2021 11:49:26 +0530</pubDate>
+      
+      <guid>http://adityapawar.co.in/posts/ascii-art/</guid>
+      <description>In this post we are going to build a simple python program to build the ASCII art in python, so let&amp;rsquo;s get started.
+How we are going to build this?  Resizing the image to the desired width with maintaing the desired ratio Then converting the image to the gray scaled image Swapping the pixels with the ASCII character to the intensity of the individual pixel  The python library that we are going to use is the PILLOW, to install it run</description>
+    </item>
+    
     <item>
       <title>How to create a virtual environment in python3?</title>
       <link>http://adityapawar.co.in/posts/virtual_env/</link>
@@ -18,13 +28,14 @@ How to create it?  Go to the folder where you want to create an env and write   
     </item>
     
     <item>
-      <title>How to make REST API in django in less than 20 mins?</title>
+      <title>Brain-friendly guide for making REST API in django in less than 20 mins?</title>
       <link>http://adityapawar.co.in/posts/rest_api_django/</link>
       <pubDate>Sat, 03 Jul 2021 10:02:38 +0530</pubDate>
       
       <guid>http://adityapawar.co.in/posts/rest_api_django/</guid>
-      <description>!!!! currently drafting !!!!!!!
- Firstly make an virtual environment Then activate it Then install djangorestframework then make a simple project called mysite  this is code area</description>
+      <description>!!! Currently Drafting !!! Django is one of the coolest framework for making the websites and is often referred as &amp;ldquo;batteries included&amp;rdquo; as it have many features such as Django ORM, Middlewares, Authentication, Django Admin Panel, Templates, etc.
+In this post we will be looking forward to create REST API using Django Rest Framework or simply DRF
+  First of all choose the project directory, in my case it is sample then create an virtual environment for the project.</description>
     </item>
     
     <item>

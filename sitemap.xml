@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://adityapawar.co.in/</loc>
-    <lastmod>2021-07-03T10:08:44+05:30</lastmod>
+    <lastmod>2021-07-06T11:49:26+05:30</lastmod>
   </url><url>
-    <loc>http://adityapawar.co.in/posts/virtual_env/</loc>
-    <lastmod>2021-07-03T10:08:44+05:30</lastmod>
+    <loc>http://adityapawar.co.in/posts/ascii-art/</loc>
+    <lastmod>2021-07-06T11:49:26+05:30</lastmod>
   </url><url>
     <loc>http://adityapawar.co.in/posts/</loc>
+    <lastmod>2021-07-06T11:49:26+05:30</lastmod>
+  </url><url>
+    <loc>http://adityapawar.co.in/posts/virtual_env/</loc>
     <lastmod>2021-07-03T10:08:44+05:30</lastmod>
   </url><url>
     <loc>http://adityapawar.co.in/posts/rest_api_django/</loc>
