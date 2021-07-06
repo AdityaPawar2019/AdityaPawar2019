@@ -164,7 +164,7 @@ In this post we are going to build a simple python program to build the ASCII ar
 <p>Then import the Image class from it and also declare the list of ASCII symbols which are arranged in the decreasing order of the intensity</p>
 <pre><code>from PIL import Image
 ASCII_CHARS = [&quot;@&quot;, &quot;#&quot;, &quot;S&quot;, &quot;%&quot;, &quot;?&quot;, &quot;*&quot;, &quot;+&quot;, &quot;;&quot;, &quot;:&quot;, &quot;,&quot;, &quot;.&quot;]
-</code></pre><p>Firstly start-off by making a <strong>resize</strong> funtion which will resize the image and maintain the aspect ratio and will return the resized image</p>
+</code></pre><p>Firstly start-off by making a <strong>resize</strong> function which will resize the image and maintain the aspect ratio and will return the resized image</p>
 <pre><code>def resize (image, new_width=120):
     width, height = image.size
     ratio = height/width
